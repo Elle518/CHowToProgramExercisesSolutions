@@ -13,8 +13,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
 	int number1;
 	int number2;
 	

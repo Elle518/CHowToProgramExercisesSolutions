@@ -12,8 +12,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
 	int radius;
 
 	puts("Please, enter the circle radius:");

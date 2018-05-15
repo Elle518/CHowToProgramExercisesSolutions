@@ -13,8 +13,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
 	// a)
 	printf("1 2 3 4\n");
 	
@@ -26,5 +25,6 @@ int main(void)
 	printf("2 ");
 	printf("3 ");
 	printf("4\n");
+	
 	return 0;
 }
