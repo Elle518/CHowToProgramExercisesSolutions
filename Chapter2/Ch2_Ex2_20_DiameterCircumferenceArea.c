@@ -1,5 +1,5 @@
 /*
-       Program: Ch2_Ex2_20.c
+       Program: Ch2_Ex2_20_DiameterCircumferenceArea.c
    Descripción: This program reads in the radius of a circle and prints the
                 circle’s diameter, circumference and area. Use the constant 
 		          value 3.14159 for π. Perform each of these calculations inside 

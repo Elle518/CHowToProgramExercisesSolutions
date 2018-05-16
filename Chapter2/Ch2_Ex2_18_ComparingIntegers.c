@@ -1,5 +1,5 @@
 /*
-       Program: Ch2_Ex2_18.c
+       Program: Ch2_Ex2_18_ComparingIntegers.c
    Descripción: This program asks the user to enter two integers, obtains the
                 numbers from the user, then prints the larger number followed by
 		          the words “is larger.” If the numbers are equal, print the

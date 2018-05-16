@@ -1,5 +1,5 @@
 /*
-       Program: Ch2_Ex2_16.c
+       Program: Ch2_Ex2_21_ShapesWithAsteroids.c
    Descripción: This program prints shapes with asterisks.
          Autor: Elle518
 

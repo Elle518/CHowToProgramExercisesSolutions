@@ -1,5 +1,5 @@
 /*
-       Program: Ch2_Ex2_23.c
+       Program: Ch2_Ex2_23_LargestSmallestIntegers.c
    Descripción: This program reads in three integers and then determines and
                 prints the largest and the smallest integers in the group.
          Autor: Elle518

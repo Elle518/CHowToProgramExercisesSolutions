@@ -1,5 +1,5 @@
 /*
-       Program: Ch2_Ex2_17.c
+       Program: Ch2_Ex2_17_PrintingValues.c
    Descripción: This program prints the numbers 1 to 4 on the same line. The
                 program uses the following methods:
 		          a) Using one printf statement with no conversion specifiers.

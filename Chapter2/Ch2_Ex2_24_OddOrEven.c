@@ -1,5 +1,5 @@
 /*
-       Program: Ch2_Ex2_24.c
+       Program: Ch2_Ex2_24_OddOrEven.c
    Descripción: This program reads an integer and determines and prints whether
                 it’s odd or even. [Hint: Use the remainder operator. An even
 		          number is a multiple of two. Any multiple of two leaves a

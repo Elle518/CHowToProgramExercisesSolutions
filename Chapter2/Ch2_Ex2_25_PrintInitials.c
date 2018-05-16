@@ -1,5 +1,5 @@
 /*
-       Program: Ch2_Ex2_25.c
+       Program: Ch2_Ex2_25_PrintInitials.c
    Descripción: This program prints my initials in block letters down the page.
                 Each block letter is constructed out of the letter it represents.
          Autor: Elle518

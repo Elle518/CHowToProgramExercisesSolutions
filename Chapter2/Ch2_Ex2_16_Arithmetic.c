@@ -1,5 +1,5 @@
 /*
-       Program: Ch2_Ex2_16.c
+       Program: Ch2_Ex2_16_Arithmetic.c
    Descripción: This program asks the user to enter two numbers,
                 obtains them from the user and prints their sum,
                 product, difference, quotient and remainder.

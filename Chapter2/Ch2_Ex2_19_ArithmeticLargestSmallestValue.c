@@ -1,5 +1,5 @@
 /*
-       Program: Ch2_Ex2_19.c
+       Program: Ch2_Ex2_19_ArithmeticLargestSmallest.c
    Descripción: This program inputs three different integers from the keyboard,
                 then prints the sum, the average, the product, the smallest and
 		          the largest of these numbers. Use only the single-selection form
