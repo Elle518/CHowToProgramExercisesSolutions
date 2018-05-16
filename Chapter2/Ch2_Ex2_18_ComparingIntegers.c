@@ -14,6 +14,7 @@
 #include <stdio.h>
 
 int main(void) {
+
 	int number1;
 	int number2;
 	
@@ -33,4 +34,5 @@ int main(void) {
 	}
 
 	return 0;
+
 }

@@ -31,4 +31,5 @@ int main(void) {
 	puts(" C     C\n");
 
 	return 0;
+
 }

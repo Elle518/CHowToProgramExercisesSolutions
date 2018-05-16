@@ -13,6 +13,7 @@
 #include <stdio.h>
 
 int main(void) {
+
 	int radius;
 
 	puts("Please, enter the circle radius:");
@@ -23,4 +24,5 @@ int main(void) {
 	printf("The circle's area is %f.\n", 3.14159 * radius * radius);
 
 	return 0;
+
 }

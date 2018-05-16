@@ -14,6 +14,7 @@
 #include <stdio.h>
 
 int main(void) {
+
 	// a)
 	printf("1 2 3 4\n");
 	
@@ -27,4 +28,5 @@ int main(void) {
 	printf("4\n");
 	
 	return 0;
+
 }
