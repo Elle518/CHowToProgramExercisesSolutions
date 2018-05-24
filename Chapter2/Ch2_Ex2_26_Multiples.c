@@ -2,7 +2,7 @@
        Program: Ch2_Ex2_26_Multiples.c
    Descripción: This program reads in two integers and determines and prints
                 whether the first is a multiple of the second. [Hint: Use the
-		          remainder operator.]
+                remainder operator.]
          Autor: Elle518
 
                 v1.0

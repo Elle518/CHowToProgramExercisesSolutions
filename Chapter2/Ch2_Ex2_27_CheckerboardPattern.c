@@ -2,7 +2,7 @@
        Program: Ch2_Ex2_27_CheckerboardPattern.c
    Descripción: This program displays a checkerboard pattern with eight printf
                 statements and then display the same pattern with as few printf
-		          statements as possible.
+                statements as possible.
          Autor: Elle518
 
                 v1.0

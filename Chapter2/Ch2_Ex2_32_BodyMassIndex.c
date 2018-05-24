@@ -2,9 +2,9 @@
        Program: Ch2_Ex2_32_BodyMassIndex.c
    Descripción: This program reads the user’s weight in kilograms and height in
                 centimeters, then calculates and displays the user’s body mass
-					 index. Also, the application should display the following
-					 information from the Department of Health and Human Services/
-					 National Institutes of Health so the user can evaluate his/her BMI:
+                index. Also, the application should display the following
+                information from the Department of Health and Human Services/
+                National Institutes of Health so the user can evaluate his/her BMI:
 			       
 			       	BMI VALUES
 						Underweight: less than 18.5

@@ -2,7 +2,7 @@
        Program: Ch2_Ex2_29_IntegerValueCharacter.c
    Descripción: This program prints the integer equivalents of some uppercase
                 letters, lowercase letters, digits and special symbols: A B C a
-		          b c 0 1 2 $ * + / and the blank character. 
+                b c 0 1 2 $ * + / and the blank character. 
          Autor: Elle518
 
                 v1.0

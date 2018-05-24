@@ -2,15 +2,15 @@
        Program: Ch2_Ex2_19_ArithmeticLargestSmallest.c
    Descripción: This program inputs three different integers from the keyboard,
                 then prints the sum, the average, the product, the smallest and
-		          the largest of these numbers. Use only the single-selection form
-			       of the if statement. The screen dialogue should appear as follows:
+                the largest of these numbers. Use only the single-selection form
+                of the if statement. The screen dialogue should appear as follows:
 
 			       	Enter three different integers: 13 27 14
-						Sum is 54
-						Average is 18
-						Product is 4914
-						Smallest is 13
-						Largest is 27
+			       	Sum is 54
+			       	Average is 18
+			       	Product is 4914
+			       	Smallest is 13
+			       	Largest is 27
 						
          Autor: Elle518
 

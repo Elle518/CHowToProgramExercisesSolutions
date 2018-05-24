@@ -2,8 +2,8 @@
        Program: Ch2_Ex2_30_SeparatingDigits.c
    Descripción: This program inputs one five-digit number, separates the number
                 into its individual digits and prints the digits separated from
-		          one another by three spaces each. [Hint: Use combinations of
-			       integer division and the remainder operation.] 
+                one another by three spaces each. [Hint: Use combinations of
+                integer division and the remainder operation.] 
          Autor: Elle518
 
                 v1.0

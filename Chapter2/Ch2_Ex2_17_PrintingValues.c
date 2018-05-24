@@ -2,9 +2,11 @@
        Program: Ch2_Ex2_17_PrintingValues.c
    Descripción: This program prints the numbers 1 to 4 on the same line. The
                 program uses the following methods:
-		          a) Using one printf statement with no conversion specifiers.
-			       b) Using one printf statement with four conversion specifiers.
-			       c) Using four printf statements.
+
+                a) Using one printf statement with no conversion specifiers.
+		          b) Using one printf statement with four conversion specifiers.
+		          c) Using four printf statements.
+		          
          Autor: Elle518
 
                 v1.0
