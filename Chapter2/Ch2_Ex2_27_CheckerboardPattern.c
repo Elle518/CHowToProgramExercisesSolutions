@@ -13,22 +13,22 @@
 
 int main(void) {
 
-	puts("Eight printf statements:");
-	printf("%s", "* * * * * * * *\n");
-	printf("%s", " * * * * * * * *\n");
-	printf("%s", "* * * * * * * *\n");
-	printf("%s", " * * * * * * * *\n");
-	printf("%s", "* * * * * * * *\n");
-	printf("%s", " * * * * * * * *\n");
-	printf("%s", "* * * * * * * *\n");
-	printf("%s", " * * * * * * * *\n\n");
+   puts("Eight printf statements:");
+   printf("%s", "* * * * * * * *\n");
+   printf("%s", " * * * * * * * *\n");
+   printf("%s", "* * * * * * * *\n");
+   printf("%s", " * * * * * * * *\n");
+   printf("%s", "* * * * * * * *\n");
+   printf("%s", " * * * * * * * *\n");
+   printf("%s", "* * * * * * * *\n");
+   printf("%s", " * * * * * * * *\n\n");
 
-	puts("One printf statement:");
-	printf("%s", "* * * * * * * *\n * * * * * * * *\n"
-			       "* * * * * * * *\n * * * * * * * *\n"
-			       "* * * * * * * *\n * * * * * * * *\n"
-			       "* * * * * * * *\n * * * * * * * *\n");
+   puts("One printf statement:");
+   printf("%s", "* * * * * * * *\n * * * * * * * *\n"
+                "* * * * * * * *\n * * * * * * * *\n"
+                "* * * * * * * *\n * * * * * * * *\n"
+                "* * * * * * * *\n * * * * * * * *\n");
 
-	return 0;
+   return 0;
 
 }

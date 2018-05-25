@@ -13,17 +13,17 @@
 #include <stdio.h>
 
 int main(void) {
-	
-	int number;
+   
+   int number;
 
-	puts("Please, enter a five-digit number:");
-	scanf("%d", &number);
+   puts("Please, enter a five-digit number:");
+   scanf("%d", &number);
 
-	printf("%d   ", number/10000); // Print first digit
-	printf("%d   ", (number%10000)/1000);
-	printf("%d   ", ((number%10000)%1000)/100);
-	printf("%d   ", (((number%10000)%1000)%100)/10);
-	printf("%d\n", (((number%10000)%1000)%100)%10); // Print last digit
+   printf("%d   ", number/10000); // Print first digit
+   printf("%d   ", (number%10000)/1000);
+   printf("%d   ", ((number%10000)%1000)/100);
+   printf("%d   ", (((number%10000)%1000)%100)/10);
+   printf("%d\n", (((number%10000)%1000)%100)%10); // Print last digit
 
-	return 0;
+   return 0;
 }

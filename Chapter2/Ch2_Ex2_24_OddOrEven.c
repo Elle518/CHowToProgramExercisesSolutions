@@ -13,20 +13,20 @@
 #include <stdio.h>
 
 int main(void) {
-	
-	int integer;
-	
-	puts("Please, enter an integer:");
-	scanf("%d", &integer);
+   
+   int integer;
+   
+   puts("Please, enter an integer:");
+   scanf("%d", &integer);
 
-	if (integer % 2 == 0) {
-		printf("%d is an even number.\n", integer);
-	}
+   if (integer % 2 == 0) {
+      printf("%d is an even number.\n", integer);
+   }
 
-	if (integer % 2 != 0) {
-		printf("%d is an odd number.\n", integer);
-	}
+   if (integer % 2 != 0) {
+      printf("%d is an odd number.\n", integer);
+   }
 
-	return 0;
+   return 0;
 
 }

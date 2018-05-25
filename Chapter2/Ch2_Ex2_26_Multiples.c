@@ -12,21 +12,21 @@
 #include <stdio.h>
 
 int main(void) {
-	
-	int number1;
-	int number2;
+   
+   int number1;
+   int number2;
 
-	puts("Please, enter two integers:");
-	scanf("%d%d", &number1, &number2);
+   puts("Please, enter two integers:");
+   scanf("%d%d", &number1, &number2);
 
-	if (number1 % number2 == 0) {
-		printf("%d is a multiple of %d.\n", number1, number2);
-	}
-	
-	if (number1 % number2 != 0) {
-		printf("%d is not a multiple of %d.\n", number1, number2);
-	}
+   if (number1 % number2 == 0) {
+      printf("%d is a multiple of %d.\n", number1, number2);
+   }
+   
+   if (number1 % number2 != 0) {
+      printf("%d is not a multiple of %d.\n", number1, number2);
+   }
 
-	return 0;
+   return 0;
 
 }

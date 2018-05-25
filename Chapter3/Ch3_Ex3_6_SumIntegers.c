@@ -12,17 +12,17 @@
 #include <stdio.h>
 
 int main(void) {
-	
-	unsigned int x = 1;
-  unsigned int sum = 0;
 
-  while (x <= 10) {
-    sum = sum + x;
-    x++;
-  }
+   unsigned int x = 1;
+   unsigned int sum = 0;
 
-  printf("The sum is: %u\n", sum);
+   while (x <= 10) {
+      sum = sum + x;
+      x++;
+   }
 
-	return 0;
+   printf("The sum is: %u\n", sum);
+
+   return 0;
 
 }

@@ -12,24 +12,24 @@
 
 int main(void) {
 
-	puts("        T");
-	puts("        T");
-	puts("TTTTTTTTT");
-	puts("        T");
-	puts("        T\n");
+   puts("        T");
+   puts("        T");
+   puts("TTTTTTTTT");
+   puts("        T");
+   puts("        T\n");
 
-	puts("  GGGGG");
-	puts(" G     G");
-	puts("G       G");
-	puts("G  G    G");
-	puts(" GGG   G\n");
-	
-	puts("  CCCCC");
-	puts(" C     C");
-	puts("C       C");
-	puts("C       C");
-	puts(" C     C\n");
+   puts("  GGGGG");
+   puts(" G     G");
+   puts("G       G");
+   puts("G  G    G");
+   puts(" GGG   G\n");
+   
+   puts("  CCCCC");
+   puts(" C     C");
+   puts("C       C");
+   puts("C       C");
+   puts(" C     C\n");
 
-	return 0;
+   return 0;
 
 }

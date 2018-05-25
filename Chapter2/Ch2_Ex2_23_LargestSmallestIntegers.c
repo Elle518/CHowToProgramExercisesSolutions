@@ -12,38 +12,38 @@
 
 int main(void) {
 
-	int number1;
-	int number2;
-	int number3;
-	int largest;
-	int smallest;
+   int number1;
+   int number2;
+   int number3;
+   int largest;
+   int smallest;
 
-	puts("Please, enter three numbers:");
-	scanf("%d%d%d", &number1, &number2, &number3);
+   puts("Please, enter three numbers:");
+   scanf("%d%d%d", &number1, &number2, &number3);
 
-	largest = number1;
+   largest = number1;
 
-	if (number1 < number2) {
-		largest = number2;
-	}
+   if (number1 < number2) {
+      largest = number2;
+   }
 
-	if (number2 < number3) {
-		largest = number3;
-	}
+   if (number2 < number3) {
+      largest = number3;
+   }
 
-	smallest = number1;
+   smallest = number1;
 
-	if (number1 > number2) {
-		smallest = number2;
-	}
+   if (number1 > number2) {
+      smallest = number2;
+   }
 
-	if (number2 > number3) {
-		smallest = number3;
-	}
+   if (number2 > number3) {
+      smallest = number3;
+   }
 
-	printf("%d is the largest.\n", largest);
-	printf("%d is the smallest.\n", smallest);
+   printf("%d is the largest.\n", largest);
+   printf("%d is the smallest.\n", smallest);
 
-	return 0;
+   return 0;
 
 }

@@ -14,15 +14,15 @@
 
 int main(void) {
 
-	int radius;
+   int radius;
 
-	puts("Please, enter the circle radius:");
-	scanf("%d", &radius);
+   puts("Please, enter the circle radius:");
+   scanf("%d", &radius);
 
-	printf("The circle's diameter is %d.\n", 2 * radius);
-	printf("The circle's circunference is %f.\n", 2 * 3.14159 * radius);
-	printf("The circle's area is %f.\n", 3.14159 * radius * radius);
+   printf("The circle's diameter is %d.\n", 2 * radius);
+   printf("The circle's circunference is %f.\n", 2 * 3.14159 * radius);
+   printf("The circle's area is %f.\n", 3.14159 * radius * radius);
 
-	return 0;
+   return 0;
 
 }

@@ -15,24 +15,24 @@
 
 int main(void) {
 
-	int number1;
-	int number2;
-	
-	puts("Please, enter two integers:");
-	scanf("%d%d", &number1, &number2);
+   int number1;
+   int number2;
+   
+   puts("Please, enter two integers:");
+   scanf("%d%d", &number1, &number2);
 
-	if (number1 > number2) {
-		printf("%d is larger.\n", number1);
-	}
+   if (number1 > number2) {
+      printf("%d is larger.\n", number1);
+   }
 
-	if (number1 < number2) {
-		printf("%d is larger.\n", number2);
-	}
+   if (number1 < number2) {
+      printf("%d is larger.\n", number2);
+   }
 
-	if (number1 == number2) {
-		puts("These numbers are equal.");
-	}
+   if (number1 == number2) {
+      puts("These numbers are equal.");
+   }
 
-	return 0;
+   return 0;
 
 }

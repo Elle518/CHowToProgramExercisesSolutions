@@ -13,18 +13,18 @@
 
 int main(void) {
 
-	int number1;
-	int number2;
+   int number1;
+   int number2;
 
-	puts("Please, enter two numbers:");
-	scanf("%d%d", &number1, &number2);
+   puts("Please, enter two numbers:");
+   scanf("%d%d", &number1, &number2);
 
-	printf("The sum is %d.\n", number1 + number2);
-	printf("The difference is %d.\n", number1 - number2);
-	printf("The product is %d.\n", number1 * number2);
-	printf("The quotient is %d.\n", number1 / number2);
-	printf("The remainder is %d.\n", number1 % number2);
+   printf("The sum is %d.\n", number1 + number2);
+   printf("The difference is %d.\n", number1 - number2);
+   printf("The product is %d.\n", number1 * number2);
+   printf("The quotient is %d.\n", number1 / number2);
+   printf("The remainder is %d.\n", number1 % number2);
 
-	return 0;
+   return 0;
 
 }
