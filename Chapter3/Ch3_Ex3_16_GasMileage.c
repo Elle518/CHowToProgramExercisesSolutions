@@ -14,33 +14,33 @@
 
 int main(void) {
 
-	float gallonsCurrentTank;
-	float milesCurrentTank;
-	float totalMiles = 0.0;
-	float totalGallons = 0.0;
-	float averageMilesPerGallon;
+   float gallonsCurrentTank;
+   float milesCurrentTank;
+   float totalMiles = 0.0;
+   float totalGallons = 0.0;
+   float averageMilesPerGallon;
 
-	printf("%s", "Enter the gallons used (-1 to end): ");
-	scanf("%f", &gallonsCurrentTank);
+   printf("%s", "Enter the gallons used (-1 to end): ");
+   scanf("%f", &gallonsCurrentTank);
 
-	while (gallonsCurrentTank != -1.0) {
+   while (gallonsCurrentTank != -1.0) {
 
-		totalGallons += gallonsCurrentTank;
+      totalGallons += gallonsCurrentTank;
 
-		printf("%s", "Enter the miles driven: ");
-		scanf("%f", &milesCurrentTank);
-		totalMiles += milesCurrentTank;
+      printf("%s", "Enter the miles driven: ");
+      scanf("%f", &milesCurrentTank);
+      totalMiles += milesCurrentTank;
 
-		printf("The miles/gallon for this tank was: %f\n\n", milesCurrentTank / gallonsCurrentTank);
+      printf("The miles/gallon for this tank was: %f\n\n", milesCurrentTank / gallonsCurrentTank);
 
-		printf("%s", "Enter the gallons used (-1 to end): ");
-		scanf("%f", &gallonsCurrentTank);
-		
-	}
+      printf("%s", "Enter the gallons used (-1 to end): ");
+      scanf("%f", &gallonsCurrentTank);
+      
+   }
 
-	averageMilesPerGallon = totalMiles / totalGallons;
-	printf("\nThe overall average miles/gallon was %f\n", averageMilesPerGallon);
-	
-	return 0;
+   averageMilesPerGallon = totalMiles / totalGallons;
+   printf("\nThe overall average miles/gallon was %f\n", averageMilesPerGallon);
+   
+   return 0;
 
 }
