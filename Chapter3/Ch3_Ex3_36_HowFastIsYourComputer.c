@@ -9,3 +9,20 @@
                 v1.0
                 This code is in the public domain.
 */
+
+#include <stdio.h>
+
+int main(void) {
+
+   int counter = 0;
+   
+   while (counter < 1000000000) {
+      counter = counter + 1;
+      if (counter % 100000000 == 0) {
+         printf("%d\n", counter);
+      }
+   }
+
+   return 0;
+
+}
