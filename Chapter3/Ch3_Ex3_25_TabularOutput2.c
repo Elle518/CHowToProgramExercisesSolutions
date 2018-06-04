@@ -1,5 +1,5 @@
 /*
-       Program: Ch3_Ex3_25_TabularOutput.c
+       Program: Ch3_Ex3_25_TabularOutput2.c
    Descripción: This program utilizes looping to produce a table of numbers.
          Autor: Elle518
 
