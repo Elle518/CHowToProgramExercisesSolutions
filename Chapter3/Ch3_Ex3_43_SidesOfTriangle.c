@@ -3,8 +3,8 @@
    Descripción: This program reads three nonzero integer values and determines
                 and prints whether they could represent the sides of a triangle.
                 The triangle inequality states that for any triangle, the sum of
-                the lengths of any two sides must be greater than or equal to
-                the length of the remaining side.
+                the lengths of any two sides must be greater than the length of
+                the remaining side.
 
                   a + b > c
                   b + c > a
