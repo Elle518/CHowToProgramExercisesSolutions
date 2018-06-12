@@ -18,7 +18,7 @@ int main(void) {
    float hourlyRate;
    float salary;
 
-   printf("%s", "Enter # of hours worked (-1 to end): ");
+   printf("%s", "Enter number of hours worked (-1 to end): ");
    scanf("%f", &hoursWorked);
 
    while (hoursWorked != -1) {
@@ -33,7 +33,7 @@ int main(void) {
 
       printf("Salary is $%.2f\n", salary);
 
-      printf("%s", "\nEnter # of hours worked (-1 to end): ");
+      printf("%s", "\nEnter number of hours worked (-1 to end): ");
       scanf("%f", &hoursWorked);
    }
 
